@@ -11,3 +11,6 @@ Console.WriteLine(DefaultLambdaExpression.GetName());
 
 // Frozen collection
 FrozenCollectionsExample.FrozenDictionaryMethod();
+
+// Alias any types
+AliasAnyType.AllAliasesUsage();
